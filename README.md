@@ -1,6 +1,3 @@
-<h3>Responsive Admin Dashboard With Bootstrap 5</h3>
-<p>Youtube Channel https://www.youtube.com/channel/UC8c4OFeOvNGmUlHLfQb9TVg</p>
-<hr>
-
-<img src="screenshot.png" />
 # StockSystem_PHP
+<h2>If you look this project then </h2>
+<button type="button"><a href="https://StockSystem.devsm.xyz/" target="_blank">Click Here</a></button>
